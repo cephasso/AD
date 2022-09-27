@@ -1,0 +1,1 @@
+Set-AzureADUser -ObjectId "email address" -PasswordPolicies DisablePasswordExpiration
